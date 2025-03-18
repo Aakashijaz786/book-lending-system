@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "testuser",
+      "password": "$2a$10$0M5YdmMFxfT/Tef1dT6RnOHyzhKLKEMZy6SI8NgimetJn6yqsFCfi",
+      "name": "Test User"
+    }
+  ],
+  "books": [
+    {
+      "id": "1",
+      "title": "Test Book",
+      "author": "Test Author",
+      "category": "Test Category",
+      "available": true
+    }
+  ],
+  "borrowedBooks": []
+}
